@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter application.
+A new Flutter application. use Bloc State Management and SQFlite
 
 ## Getting Started
 
